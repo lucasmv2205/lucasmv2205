@@ -18,11 +18,6 @@ Sempre querendo aprender algo novo e gerar valor através da tecnologia  ❤
 
 </br>
 
-<a href="https://www.instagram.com/jeniblo_dev" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/jeniblo_dev" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/jeniffer-bittencourt" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://dev.to/jeniblo_dev" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-
 ##
 <p align="center">
 <a href="https://github.com/lucasmv2205">
