@@ -9,12 +9,12 @@
 </br>
 
 <div display="inline-block">
- <h3 align="left">🤿 Software developer</h3>
+ <h3 align="left">😱 Software developer</h3>
 </div>
 
 </br>
 
-Sempre querendo aprender algo novo e gerar valor através da tecnologia 👋
+Sempre querendo aprender algo novo e gerar valor através da tecnologia 🔥
 
 </br>
 
