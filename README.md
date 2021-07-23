@@ -21,7 +21,6 @@ Sempre querendo aprender algo novo e gerar valor através da tecnologia 🔥
 ##
 <p align="center">
 <a href="https://github.com/lucasmv2205">
-<!--  [![Lucas Martins github stats](https://github-readme-stats.vercel.app/api?username=lucasmv2205&theme=dark&show_icons=true&count_private=true)] -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmv2205&theme=dark&show_icons=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasmv2205&layout=compact&langs_count=8&theme=dark"/>
 </a>
