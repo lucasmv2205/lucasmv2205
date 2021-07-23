@@ -10,7 +10,7 @@
 </br>
 
 <div display="inline-block">
- <p align="left">🤿 Software developer</p>
+ <h3 align="left">🤿 Software developer</h3>
 </div>
 
 </br>
