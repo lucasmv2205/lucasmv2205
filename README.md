@@ -9,6 +9,12 @@
 
 </br>
 
+<div display="inline-block">
+ <p align="left">🤿 Software developer</p>
+</div>
+
+</br>
+
 Sempre querendo aprender algo novo e gerar valor através da tecnologia 👋
 
 </br>
