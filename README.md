@@ -1,7 +1,3 @@
-<img align="right" width="300px" style="margin-top:-20px" src="https://i.ibb.co/NZ1JpVZ/20210330-195300.png">
-
-</br>
-</br>
 
 <div dsplay="inline-block">
  
