@@ -14,7 +14,7 @@
 
 </br>
 
-Sempre querendo aprender algo novo e gerar valor através da tecnologia 🔥
+Always wanting to learn something new and generate value through technology 🔥
 
 </br>
 
