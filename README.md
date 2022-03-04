@@ -15,7 +15,6 @@
 </br>
 
 Always wanting to learn something new and generate value through technology 🔥
-
 </br>
 
 ##
