@@ -17,7 +17,7 @@ Always wanting to learn something new and generate value through technology 🔥
 </br>
 
 ##
-aqui
+<p align="center">my statistics</p>
 <p align="center">
 <a href="https://github.com/lucasmv2205">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmv2205&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
