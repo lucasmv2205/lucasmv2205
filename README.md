@@ -8,7 +8,7 @@
 
 </br>
 <div display="inline-block">
- <h3 align="left">Software Developer | Frontend</h3>
+ <h2 align="left">Software Developer | Frontend</h2>
 </div>
 
 </br>
@@ -17,7 +17,7 @@ Always wanting to learn something new and generate value through technology 🔥
 </br>
 
 ##
-<h3 align="center">my statistics</h3>
+<h3 align="center">My statistics</h3>
 <p align="center">
 <a href="https://github.com/lucasmv2205">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmv2205&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
