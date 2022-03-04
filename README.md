@@ -7,7 +7,6 @@
 </div>
 
 </br>
-
 <div display="inline-block">
  <h3 align="left">Software Developer | Frontend</h3>
 </div>
