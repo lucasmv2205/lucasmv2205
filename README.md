@@ -8,7 +8,7 @@
 
 </br>
 <div display="inline-block">
- <h2 align="left">Software Developer | Frontend</h2>
+ <h2 align="left">Software Developer</h2>
 </div>
 
 </br>
