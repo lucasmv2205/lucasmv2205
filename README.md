@@ -8,7 +8,7 @@
  </br>
  <h3>
    <a href="https://my-website-amber-five.vercel.app/">
-     Visit My website
+     Visit My Website
    </a>
   </h3>
 </div>
