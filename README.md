@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/lucas-martins-30823017b/">
     <img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="linkedin" style="vertical-align:top;">
   </a>
+  <a href="https://vercel.com/lucasmv2205/my-website/">
+    Visit My website 
+  </a>
 </div>
 
 </br>
