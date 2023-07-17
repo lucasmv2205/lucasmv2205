@@ -15,7 +15,7 @@
 
 </br>
 <div display="inline-block">
- <h2 align="left">Software Developer</h2>
+ <h2 align="left">Software Engineer</h2>
 </div>
 
 </br>
